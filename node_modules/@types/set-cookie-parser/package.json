@@ -1,0 +1,42 @@
+{
+    "name": "@types/set-cookie-parser",
+    "version": "2.4.1",
+    "description": "TypeScript definitions for set-cookie-parser",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/set-cookie-parser",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Nick Paddock",
+            "url": "https://github.com/nickp10",
+            "githubUsername": "nickp10"
+        },
+        {
+            "name": "Ilya Zaytsev",
+            "url": "https://github.com/ilyaztsv",
+            "githubUsername": "ilyaztsv"
+        },
+        {
+            "name": "Singlebyted",
+            "url": "https://github.com/singlebyted",
+            "githubUsername": "singlebyted"
+        },
+        {
+            "name": "Piotr Błażejewicz",
+            "url": "https://github.com/peterblazejewicz",
+            "githubUsername": "peterblazejewicz"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/set-cookie-parser"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "20b37e246332c1cafe2d11c354e5de6ee4a0ae11ce3c68846fb5fac1149d8f69",
+    "typeScriptVersion": "3.6"
+}

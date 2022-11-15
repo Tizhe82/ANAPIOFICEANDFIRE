@@ -1,0 +1,28 @@
+{
+    "name": "@types/js-levenshtein",
+    "version": "1.1.0",
+    "description": "TypeScript definitions for js-levenshtein",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Kallu609",
+            "url": "https://github.com/Kallu609",
+            "githubUsername": "Kallu609"
+        },
+        {
+            "name": "Pyry Rouvila",
+            "url": "https://github.com/naftis",
+            "githubUsername": "naftis"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "0299789bf73868de69b439ffd09a3e1adaa3bd43ee7ddd5b2afcabad22c34f70",
+    "typeScriptVersion": "2.0"
+}
